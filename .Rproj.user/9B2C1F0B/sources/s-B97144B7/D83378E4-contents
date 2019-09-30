@@ -1,0 +1,20 @@
+Package: MyRfunctions
+Title: Set of Commonly Used Functions for Network Analyses
+Version: 0.1
+Authors@R: 
+    person(given = "Tain",
+           family = "Velasco-Luquez",
+           role = c("aut", "cre"),
+           email = "tvelasco@javeriana.edu.co")
+Description: Set of commonly used functions when dealing with networks in R.
+License: MIT
+Encoding: UTF-8
+LazyData: false
+Depends: 
+    R (>= 3.5.3)
+Imports: 
+    igraph (>= 1.2.4),
+    parallel (>= 3.5.3),
+    poweRlaw (>= 0.70.2),
+    ggplot2 (>= 3.2.0)
+RoxygenNote: 6.1.1

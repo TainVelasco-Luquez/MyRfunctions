@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563832713843.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "255139D",
+    "lastKnownWriteTime" : 1553718385,
+    "last_content_update" : 1553718385,
+    "path" : "~/MEGA/My_project/MyRfunctions/R/my_targeted_robustness.R",
+    "project_path" : "R/my_targeted_robustness.R",
+    "properties" : {
+        "cursorPosition" : "45,22",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

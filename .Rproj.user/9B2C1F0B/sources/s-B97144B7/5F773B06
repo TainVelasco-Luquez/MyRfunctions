@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563832821450.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5F773B06",
+    "lastKnownWriteTime" : 1563832999,
+    "last_content_update" : 1563832999844,
+    "path" : "~/MEGA/My_project/MyRfunctions/R/knnk_against_random.R",
+    "project_path" : "R/knnk_against_random.R",
+    "properties" : {
+        "cursorPosition" : "8,91",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

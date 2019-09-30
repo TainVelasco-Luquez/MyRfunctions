@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1569627943516.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "114DCC3C",
+    "lastKnownWriteTime" : 1569628027,
+    "last_content_update" : 1569628027,
+    "path" : "~/MEGA/My_project/MyRfunctions/R/dds.R",
+    "project_path" : "R/dds.R",
+    "properties" : {
+        "cursorPosition" : "11,2",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

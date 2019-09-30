@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1569601152736.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AFB355A5",
+    "lastKnownWriteTime" : 1569606505,
+    "last_content_update" : 1569606505684,
+    "path" : "~/MEGA/My_project/MyRfunctions/R/my_all_DE.R",
+    "project_path" : "R/my_all_DE.R",
+    "properties" : {
+        "cursorPosition" : "37,35",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

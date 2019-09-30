@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563827735336.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "694782561",
+    "id" : "C82DE6DD",
+    "lastKnownWriteTime" : 1569710653,
+    "last_content_update" : 1569710653012,
+    "path" : "~/MEGA/My_project/MyRfunctions/R/my_up_down.R",
+    "project_path" : "R/my_up_down.R",
+    "properties" : {
+        "cursorPosition" : "17,3",
+        "scrollLine" : "8"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

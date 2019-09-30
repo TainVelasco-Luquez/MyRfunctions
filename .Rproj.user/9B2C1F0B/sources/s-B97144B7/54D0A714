@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563832697203.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2105980369",
+    "id" : "54D0A714",
+    "lastKnownWriteTime" : 1560097212,
+    "last_content_update" : 1560097212,
+    "path" : "~/MEGA/My_project/MyRfunctions/R/cl_against_random.R",
+    "project_path" : "R/cl_against_random.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

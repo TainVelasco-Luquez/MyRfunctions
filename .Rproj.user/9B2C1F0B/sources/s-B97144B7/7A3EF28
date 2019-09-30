@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563832934112.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7A3EF28",
+    "lastKnownWriteTime" : 1553709672,
+    "last_content_update" : 1553709672,
+    "path" : "~/MEGA/My_project/MyRfunctions/R/not_in.R",
+    "project_path" : "R/not_in.R",
+    "properties" : {
+        "cursorPosition" : "18,6",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
